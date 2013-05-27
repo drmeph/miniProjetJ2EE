@@ -1,0 +1,46 @@
+body
+{
+    background-color:#d0e4fe;
+    background-image:url('/images/wall-vc8e.jpg');
+}
+
+p
+{
+    display: inline-block;
+    text-align: center;
+}
+
+table
+{
+    border: 1px solid black;
+    background-color: white;
+
+}
+
+span.tab
+{
+    padding: 0 15px;
+}
+
+form.cform
+{
+    position:absolute;
+    margin-top: auto;
+    margin-left: auto;
+}
+
+.contactBook {
+    border-collapse: collapse;
+}
+
+.contactBook th
+{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
+
+.contactBook td
+{
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+}
